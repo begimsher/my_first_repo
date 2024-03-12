@@ -8,4 +8,4 @@ Add some text locally
 
 Added text in new branch
 
-Added some local conflict
+Solving a conflict text in browser
